@@ -1,0 +1,2 @@
+# ansible-errors
+error handling
